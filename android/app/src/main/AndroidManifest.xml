@@ -14,7 +14,7 @@
         android:label="flutter_maps"
         android:icon="@mipmap/ic_launcher">
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDeTxC5S6ahnTuTHysX68yMQSdew_LJ-NE"/>
+            android:value="Your Map Key"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
