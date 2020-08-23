@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "492144525804",
+    "firebase_url": "https://flutter-live-tracking-ee583.firebaseio.com",
+    "project_id": "flutter-live-tracking-ee583",
+    "storage_bucket": "flutter-live-tracking-ee583.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492144525804:android:e81f4599ddaff94ce500c9",
+        "android_client_info": {
+          "package_name": "com.theflutterblog.fluttermapdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492144525804-97ha3pan614836r41vpjl9o2d6ug4cee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theflutterblog.fluttermapdemo",
+            "certificate_hash": "caea5a8e15dfa92a8ce16b9a59fdfbe443c05af3"
+          }
+        },
+        {
+          "client_id": "492144525804-jf8jq38uvqhbrpe5cg4dep0osvslvp0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkgj_GJ4aamR7kYZ7YBm6rm8RabfZTSOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492144525804-jf8jq38uvqhbrpe5cg4dep0osvslvp0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
